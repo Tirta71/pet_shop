@@ -93,7 +93,7 @@ export default function PetCard() {
                     text-white px-5 py-2 rounded-lg font-bold shadow 
                     hover:scale-105 transition text-sm">
 
-                    <span>1100 TOKEN 20KAK</span>
+                    <span>1000 TOKEN 17KAK</span>
                     <span className="text-xs text-blue-200"></span>
 
                 </button>
