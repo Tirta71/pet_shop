@@ -27,7 +27,7 @@ export default function PetCard() {
 
     return (
         <div className="min-h-screen flex flex-col items-center justify-center 
-            bg-gradient-to-b from-blue-950 via-blue-900 to-black p-8">
+            ">
 
             {/* GRID 4x2 */}
             <div className="grid grid-cols-4 gap-6">
